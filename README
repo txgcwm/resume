@@ -1,0 +1,11 @@
+这是一个moderncv的中文简历模板。
+
+编译：
+
+make
+
+清理：
+
+make clean
+
+Ubuntu上安装LaTeX参考[这里](http://txgcwm.github.io/blog/2013/08/07/ubuntushang-an-zhuang-latex/)
